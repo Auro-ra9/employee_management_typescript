@@ -6,7 +6,7 @@ export class Employee {
 
   // add some employee details at first
   constructor() {
-    initialEmployeeDetails.forEach((ele) => {
+    initialEmployeeDetails.forEach((ele:employeeDetailType) => {
       this.addEmployee(ele);
     });
   }
