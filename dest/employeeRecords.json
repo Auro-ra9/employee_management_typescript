@@ -1,0 +1,72 @@
+[
+    {
+        "employeeId": 1,
+        "name": "John Doe",
+        "age": 30,
+        "position": "Software Engineer",
+        "salary": 70000
+    },
+    {
+        "employeeId": 2,
+        "name": "Jane Smith",
+        "age": 25,
+        "position": "UI/UX Designer",
+        "salary": 65000
+    },
+    {
+        "employeeId": 3,
+        "name": "Robert Brown",
+        "age": 35,
+        "position": "Project Manager",
+        "salary": 90000
+    },
+    {
+        "employeeId": 4,
+        "name": "Emily Davis",
+        "age": 28,
+        "position": "QA Engineer",
+        "salary": 60000
+    },
+    {
+        "employeeId": 5,
+        "name": "Michael Johnson",
+        "age": 32,
+        "position": "DevOps Engineer",
+        "salary": 85000
+    },
+    {
+        "employeeId": 6,
+        "name": "Sarah Wilson",
+        "age": 27,
+        "position": "Business Analyst",
+        "salary": 72000
+    },
+    {
+        "employeeId": 7,
+        "name": "David Martinez",
+        "age": 40,
+        "position": "Senior Developer",
+        "salary": 95000
+    },
+    {
+        "employeeId": 8,
+        "name": "Sophia Gonzalez",
+        "age": 26,
+        "position": "Front-End Developer",
+        "salary": 68000
+    },
+    {
+        "employeeId": 9,
+        "name": "James Anderson",
+        "age": 29,
+        "position": "Full-Stack Developer",
+        "salary": 78000
+    },
+    {
+        "employeeId": 10,
+        "name": "Olivia Thompson",
+        "age": 31,
+        "position": "Database Administrator",
+        "salary": 74000
+    }
+]
